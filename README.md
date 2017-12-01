@@ -1,2 +1,4 @@
 # firstproject
 myFirstProject
+
+learning Git
